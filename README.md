@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Madhu Shree
 - 🌱 Currently delving into data analytics, specializing in Excel, SQL and Power BI.
-- 📫 You can reach me on madhushree82105@gmail.com
+- 📫 You can reach me at madhushree82105@gmail.com
