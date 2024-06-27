@@ -1,4 +1,4 @@
-👋 Hi there! I'm Madhu Shree, a dedicated data enthusiast with a strong background in hospital & healthcare management and product analysis. With over two years of experience in product development and data analytics, I thrive in dynamic environments where creativity is encouraged.
+👋 Hi there! I'm Madhu Shree, a dedicated data enthusiast with a strong background in Product analysis. With over two years of experience in product development and data analytics, I thrive in dynamic environments where creativity is encouraged.
 
 🔍 What I’m Working On:
 
